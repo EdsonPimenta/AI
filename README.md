@@ -6,4 +6,4 @@
 
 ## 📖 Sobre o Repositório
 
-Este repositório contém uma coleção de exercícios, trabalhos práticos e projetos desenvolvidos durante a disciplina de **[Nome da Disciplina]** na **[Nome da Universidade]**. O objetivo é documentar meu aprendizado e demonstrar a aplicação prática de algoritmos e conceitos fundamentais da Inteligência Artificial.
+Este repositório contém uma coleção de exercícios, trabalhos práticos e projetos desenvolvidos durante a disciplina de **Inteligência Artificial** na **PUC Minas**.
